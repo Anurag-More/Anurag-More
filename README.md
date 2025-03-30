@@ -1,0 +1,7 @@
+- 👋 Hi, I’m **@Anurag-More**.
+- 👀 I’m interested in the **Financial Happenings** of the World.
+- 🌱 I’m currently learning **C++** and looking forward to **learning more** .
+- 💞️ I’m looking to collaborate on **Bounties**.
+- 📫 You can reach me by my email id **moreanurag2010@gmail.com**.
+- 😄 Pronouns: A **combo of a musician, an athlete, and a coder**.
+- ⚡ Fun fact: The **Amsterdam Stock Exchange**, established in 1602, is considered the world's first stock exchange. But it only traded bonds and commodities, not stocks!
