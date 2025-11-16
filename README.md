@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@Anurag-More**.
-- 👀 I’m interested in the **Financial Happenings** of the World.
+- 👀 I’m interested in the **FinTech**.
 - 🌱 I’m currently learning **C++** and looking forward to **learning more** .
 - 💞️ I’m looking to collaborate on **Bounties**.
 - 📫 You can reach me by my email id **moreanurag2010@gmail.com**.
